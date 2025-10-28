@@ -115,7 +115,7 @@ export const appConfig = {
     },
 
     // MQTT 토픽 프리픽스 (개인화 권장 - 다른 수강생과 중복되지 않도록!)
-    topicPrefix: "kiot/uniq-zenit-new-1028/",
+    topicPrefix: "kiot/healthmax-daisy/",
 
     // 연결 옵션
     options: {
