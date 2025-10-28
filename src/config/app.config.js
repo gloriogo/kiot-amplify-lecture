@@ -78,7 +78,7 @@ export const appConfig = {
 
   mqtt: {
     // MQTT 브로커 선택 (broker-option1 ~ broker-option6 중 선택)
-    brokerOption: "broker-option4",
+    brokerOption: "broker-option5",
 
     // MQTT 브로커 옵션들
     brokerOptions: {
